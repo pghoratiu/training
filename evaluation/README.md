@@ -9,9 +9,9 @@ Sources:
 
 Problems based on their complexity:
 
-* [Low](low/README.md)
-* [Medium](medium/README.md)
-* [High](high/README.md)
+* [Low](problems/low/README.md)
+* [Medium](problems/medium/README.md)
+* [High](problems/high/README.md)
 
 
 
