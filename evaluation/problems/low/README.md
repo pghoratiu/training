@@ -16,5 +16,3 @@ Define two variables with random integer values, show the sum of the two.
 
 1. Write a function which identifies if a number (parameter) is odd or even
 and print out "odd" or "even" depending on the number.
-
-2. Write all prime numbers till 100
